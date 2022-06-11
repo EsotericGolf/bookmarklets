@@ -1,2 +1,3 @@
 https://caiorss.github.io/bookmarklets
 http://4umi.com/web/bookmarklet/all.php
+https://github.com/Krazete/bookmarklets
